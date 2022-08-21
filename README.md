@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @DevDulox
-- 👀 I’m interested in Minecraft plugins & Discord bots
-- 🌱 I’m currently learning JavaScript, Java
-- 📫 How to reach me Duloxetina#5207 on Discord.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=30&duration=3000&pause=250&center=true&vCenter=true&multiline=true&width=435&height=500&lines=Hello%2C+i'm+Duloxetina;Currently+developing%3A;Minecraft+Plugins;Discord+Bots)](https://git.io/typing-svg)
